@@ -17,12 +17,12 @@ Each project demonstrates practical use of Python libraries to turn raw data int
 
 ## 📂 Projects
 
-### 🔹 Exploratory Data Analysis (EDA) - Retail Dataset
+### 🔹 Exploratory Data Analysis (EDA) - 'Toko Roti' Sales Analysis
 - **Goal:** Understand customer behavior and product sales trends.  
-- **Dataset:** Retail transactions dataset.  
-- **Key Skills:** Pandas, Matplotlib, Seaborn.  
-- **Files:** [`retail_eda.ipynb`](./retail_eda.ipynb)  
-- **Insights:** Sales peaked during weekends, and top 10 products contributed 60% of revenue.  
+- **Dataset:** transactions dataset.  
+- **Key Skills:** Pandas, Matplotlib.  
+- **Files:** [`retail_eda.ipynb`](https://github.com/paskaliavero/python-portofolio/blob/main/transaction_processing.ipynb)  
+- **Insights:** Most sold product, Most sold Category, Payment Method that used the most
 
 ---
 
